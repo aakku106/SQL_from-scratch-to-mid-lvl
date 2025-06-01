@@ -21,10 +21,13 @@ VALUES
 
 SELECT *
 FROM UserDetails
+PRINT '---------------------------------------------'
 
 SELECT Id
 FROM UserDetails
 WHERE Id<306
+
+PRINT '---------------------------------------------'
 
 INSERT INTO UserDetails
     (UserName,Address)
@@ -34,10 +37,22 @@ VALUES
 SELECT *
 FROM UserDetails
 
+PRINT '---------------------------------------------'
+
 -- UPDATE UserDetails SET Address='weeeeeeeeeeeeee' -- sab ly select gorxa 
 UPDATE UserDetails SET Address='weeeeeeeeeeeeee' WHERE Id>506
 
 SELECT *
 FROM UserDetails
 
+PRINT '---------------------------------------------'
 -- DELETE * FROM UserDetails --well it sems 
+
+DELETE FROM UserDetails WHere Id=106;
+
+SELECT *
+FROM UserDetails
+
+
+PRINT '---------------------------------------------'
+
