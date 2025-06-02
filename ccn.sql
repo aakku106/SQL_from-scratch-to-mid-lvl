@@ -1,23 +1,25 @@
 USE master;
 DROP DATABASE CCN;
+GO
 CREATE DATABASE CCN;
+GO
 USE CCN;
 CREATE TABLE UserDetails
 (
     Id INT IDENTITY(106,100) PRIMARY KEY NOT NULL ,
     UserName VARCHAR
     (100) NOT NULL,
-    Address VARCHAR
+    Address VARCHAR 
     (100)
 );
 INSERT INTO UserDetails
     (UserName, Address)
 VALUES
-    ('cat', 'address1'),
-    ('rat', 'address2'),
-    ('bat', 'address3'),
-    ('fat', 'address4'),
-    ('sat', 'address5');
+    ('cat', 'nepal'),
+    ('rat', 'nepal'),
+    ('bat', 'nepal'),
+    ('fat', 'nepal'),
+    ('sat', 'nepal');
 
 SELECT *
 FROM UserDetails
@@ -55,4 +57,28 @@ FROM UserDetails
 
 
 PRINT '---------------------------------------------'
+
+
+CREATE TABLE UserLocationDetails
+(
+    L_Id INT IDENTITY(100,1) PRIMARY KEY NOT NULL,
+    L_Name VARCHAR(70),
+    L_Description VARCHAR(MAX)
+);
+INSERT INTO UserLocationDetails
+    (L_Name,L_Description)
+VALUES
+    ('nepal', 'wow verry buutifull'),
+    ('nepal', 'wow verry buutifull'),
+    ('nepal', 'wow verry buutifull'),
+    ('nepal', 'wow verry buutifull'),
+    ('nepal', 'wow verry buutifull');
+
+SELECT *
+FROM UserLocationDetails;
+
+SELECT Address
+FROM UserDetails
+    RIGHT JOIN UserLocationDetails
+    ON UserDetails.Address=UserLocationDetails.L_Name;
 
