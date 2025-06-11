@@ -20,6 +20,636 @@ VALUES
         'aww@wee.wee'
     ),
     (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
+        'ccn',
+        'skn-12',
+        + 999991920,
+        'mail',
+        'aww@wee.wee'
+    ),
+    (
         'cat',
         'snn-12',
         + 974567367,
@@ -39,8 +669,4 @@ SELECT
     *
 FROM
     tbl_std
-
-
     -- DROP TABLE std_tbl
-
-    
