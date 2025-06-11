@@ -670,3 +670,6 @@ SELECT
 FROM
     tbl_std
     -- DROP TABLE std_tbl
+-- drop table tbl_std;
+
+-- drop table wee;
