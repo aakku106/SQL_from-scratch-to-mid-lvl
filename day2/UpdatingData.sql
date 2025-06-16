@@ -13,14 +13,10 @@ FROM
 INSERT INTO
     Std_det
 VALUES
-    ('ccn', 'male', '321', 'btl', 'wee@wee'),
-    ('aakku', 'male', '123', 'btl', 'wee@wee'),
-    ('ram', 'male', '1234', 'btl', 'wee@wee')
+    ('null', 'null', 'null', 'null', null)
     -- now example for mass update
 UPDATE Std_det
 set
     stdAddress = 'khausali'
 WHERE
     CONVERT(varchar, stdAddress) = 'btl'
-
-    
